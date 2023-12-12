@@ -45,4 +45,5 @@ Unsplash API: 무료로 사용할 수 있는 고품질 사진을 제공하는 AP
 ### 3.3 웹 페이지의 구성
 
 ## 4. 실행 결과
+![image](https://github.com/KJH03/KJH03/assets/132320204/7149fd92-5542-46ba-bbcd-256c016543f5)
 
