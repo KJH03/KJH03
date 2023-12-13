@@ -14,13 +14,15 @@
 ### 1. 지도 및 위치 기반 서비스:
 Google Maps API: 지도 표시, 장소 검색, 경로 탐색 등을 위한 강력한 API.
 
-### 2. Chat GPT api
-
 ## 3. 웹 페이지 구축
 
 ### 3.3 웹 페이지의 구성
-왼쪽 상단부터 홈, 여행지, 일정, 문의 버튼이 있고 오른쪽에 지도가 있다.
+홈, 계획 짜기, 날씨 확인하기
 
 ## 4. 실행 결과
-![image](https://github.com/KJH03/KJH03/assets/132320204/7149fd92-5542-46ba-bbcd-256c016543f5)
+![KakaoTalk_20231213_235325819 GIF](https://github.com/KJH03/KJH03/assets/132320204/80bbbf0d-7434-4f92-bf45-648fba1fce1f)
 
+![KakaoTalk_20231213_235321762 GIF](https://github.com/KJH03/KJH03/assets/132320204/ed51db62-4450-4c63-8772-fb2fd8ce9e44)
+
+
+![KakaoTalk_20231213_235319634 GIF](https://github.com/KJH03/KJH03/assets/132320204/fafcbb3f-339e-44c0-8502-168c7082c81b)
